@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// This demo exercise the Navigator 2.0 API
 void main() {
   runApp(BooksApp());
 }
